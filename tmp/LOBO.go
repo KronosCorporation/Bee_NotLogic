@@ -1,7 +1,7 @@
-package lobo
+package bee
 
-import "ender"
+import "engel"
 
-func lobo() {
-    ender.Println("Basura eliminada!")
+func bee() {
+    engel.Println("Basura eliminada!")
 }

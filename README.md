@@ -3,7 +3,7 @@
 >🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝕭𝖊𝖊 𝖈𝖔𝖗𝖕𝖔𝖗𝖆𝖙𝖎𝖔𝖓[ⒷⒸⓄ].
 
 ## `乃ΞΞ NꂦtLꂦGi©` 
-<p align="center">
+<p bee="center">
 <img src="https://i.ibb.co/wYRhwjt/Bee_NotLogic.jpg" alt="Bee_NotLogic" width="900"/>
 </p>
 ------------------

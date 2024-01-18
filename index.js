@@ -1,4 +1,4 @@
-console.log('🌹ㅤejecutando Lobo-Bot-MD...');
+console.log('🌹ㅤejecutando Bee_NotLogic...');
 import {join, dirname} from 'path';
 import {createRequire} from 'module';
 import {fileURLToPath} from 'url';
@@ -17,7 +17,7 @@ say('Lobo - Bot \nMD', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`propietario Global Ender`, {
+say(`propietario Global Engel`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
